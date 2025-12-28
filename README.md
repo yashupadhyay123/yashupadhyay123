@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @yashupadhyay123
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning computer engineering 
-- 💞️ I’m looking to collaborate on
+- 👋 Hello, I am Yash Upadhyay
+- 👀 I am interested in Software Development 
+- 🌱 I am currently learning AI, ML, DataSci, Robotics
 - 📫 How to reach me yashupadhyay3005@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 yashupadhyay123/yashupadhyay123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
