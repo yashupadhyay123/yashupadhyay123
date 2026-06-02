@@ -1,7 +1,7 @@
-- 👋 Hello, I am Yash Upadhyay
-- 👀 I am interested in Software Development 
-- 🌱 I am currently learning AI, ML, DataSci, Robotics
-- 📫 How to reach me yashupadhyay3005@gmail.com
+-  Hello, I am Yash Upadhyay
+-  I am interested in Software Development 
+-  I am currently learning AI, ML, Python, Data Science
+-  How to reach me yashupadhyay3005@gmail.com
 
 
 <!---
